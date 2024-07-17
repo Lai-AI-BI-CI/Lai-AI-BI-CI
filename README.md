@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lai-AI-BI-CI
 - 👀 I’m interested in AI-BI-CI
-- 🌱 I’m currently learning: AI, BI, CI, Machine Learning
+- 🌱 I’m currently learning: AI, BI, CI
 - 💞️ I’m looking to collaborate on: AI, BI, CI
 - 📫 Reach me at: work.kwanlai1036@gmail.com  
 - 😄 Pronouns: Mr.
